@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@400;700&family@400;700&display=swap');
+h1{
+    color: red;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Mountains of Christmas';
+    font-style: italic;
+    text-align: center;
+}
+p{
+    color: green;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Mountains of Christmas';
+    font-style: italic;
+    text-decoration-line: underline;
+    text-decoration-color: red;
+    text-decoration-style: dashed;
+}
+button{
+    color: orange;
+    background-color: aqua;
+}

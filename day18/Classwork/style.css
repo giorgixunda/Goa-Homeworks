@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@400;700&family@400;700&display=swap');
+
+
+    /* font:italic 700 20px Roboto; */
+p,h1{
+    color: tomato;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Mountains of Christmas';
+    font-style: italic;
+    text-decoration-line: underline ;
+    text-decoration-color: green;
+    text-decoration-style: dashed;
+}
