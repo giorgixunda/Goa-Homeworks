@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;900&display=swap');
+h1{
+    color: orange;
+}
+li{
+    color: aqua;
+}
+p{
+    color: blue;
+}
+p,li,h1{
+    font-family: "Roboto";
+    text-decoration: dashed;
+    text-decoration-line: underline;
+    text-decoration-color: orange;
+}
