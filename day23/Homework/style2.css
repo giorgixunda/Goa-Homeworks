@@ -1,0 +1,13 @@
+p{
+    text-align: center;
+    color: burlywood;
+    text-decoration: underline;
+    font-size: 18px;
+}
+a{
+    color: green;
+    text-decoration: none;
+}
+a:hover{
+    color: salmon;
+}

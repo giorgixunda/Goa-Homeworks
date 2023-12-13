@@ -1,0 +1,22 @@
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+h1{
+    color: blue;
+    font-size: 13px;
+    text-align: center;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    color: green;
+}
+a:hover{
+    color: salmon;
+}
+#center{
+    text-align: center;
+}
