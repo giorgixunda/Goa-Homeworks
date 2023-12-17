@@ -1,0 +1,25 @@
+h1{
+    color: rgb(250, 122, 0);
+    text-align: center;
+}
+p{
+    color: #f37005;
+    text-align: center;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    color: rgb(225, 195, 32);
+    background-color: #f37005;
+    border-radius: 25px;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 195, 250);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
