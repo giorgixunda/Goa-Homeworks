@@ -1,0 +1,16 @@
+li{
+    list-style: none;
+    color: orange;
+    text-shadow: 2px 2px 5px orangered;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: salmon;
+}
+.center{
+    text-align: center;
+}
+a{
+    margin-left: 20px;
+}
