@@ -1,0 +1,31 @@
+label{
+    display: block;
+}
+form{
+    background-color: green;
+    width: 250px;
+    height: 250px;
+    border-radius: 25px;
+}
+.center{
+    color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 35px;
+}
+button{
+    background-color: green;
+    color: salmon;
+}
+button:hover{
+    color: orange;
+    background-color: green;
+}
+::placeholder{
+    color: salmon;
+}
+input{
+    color: orange;
+}
