@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+body{
+    background: black;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: salmon;
+}
+ul,li,a{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    color: green;
+}
+.block{
+    height: 100vh;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.about{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background: rgb(30, 203, 30);
+    color: rgb(15, 74, 170);
+    font-family: "Rubik Bubbles";
+}
+#detail{
+    background: red;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
