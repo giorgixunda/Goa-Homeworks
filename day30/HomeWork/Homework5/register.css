@@ -1,0 +1,29 @@
+body{
+    background: url(/day30/HomeWork/goa.jpg) no-repeat;
+    background-size: cover;
+}
+.box1{
+   box-shadow: 5px 5px 5px 5px green;
+    display: block;
+    text-align: center;
+    width: 500px;
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+label{
+    color: white;
+}
+button{
+    background-color: green;
+    color: white;
+}
+input{
+    color: green;
+}
+button:hover{
+    cursor: pointer;
+    color: blue;
+}

@@ -1,0 +1,30 @@
+.box0,.box1{
+    background-color: aliceblue;
+    width: 250px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+.box2{
+    background-color: aliceblue;
+    width: 250px;
+    height: 150px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+.top{
+    top: 80px;
+    left: 280px;
+    position: absolute;
+}
+.box3{
+    background-color: aliceblue;
+    box-shadow: 1px 1px 1px 1px black;
+    width: 300px;
+    height: 250px;
+    text-align: center;
+}
+.box4{
+    background-color: aliceblue;
+    box-shadow: 1px 1px 1px 1px black;
+}
+#white,#white0{
+    background-color: white;
+}

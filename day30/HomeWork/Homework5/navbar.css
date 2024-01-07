@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background:url(/day30/HomeWork/goa.jpg) no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.navbar{
+    background: transparent;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 2px 2px green;
+}
+ul,li,a{
+    display: inline;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    text-decoration: none;
+    margin-left: 25px;
+    color: white;
+    height: 25px;
+}
+.block{
+    height: 120vh;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.about{
+    text-align: center;
+    height: 100px;
+    color: white;
+    box-shadow: 5px 5px 5px 5px white;
+}
+a:hover{
+    color: green;
+}

@@ -1,0 +1,27 @@
+.box{
+    text-align: center;
+}
+textarea{
+    width: 150px;
+    height: 150px;
+}
+#t1{
+    width: 300px;
+}
+#t2{
+    width: 300px;
+    margin-left: 25px;
+}
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+button{
+    background-color: aqua;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 25px;
+}

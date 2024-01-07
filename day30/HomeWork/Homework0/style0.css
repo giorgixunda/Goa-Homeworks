@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+hr{
+    width: 300px;
+}
+h2{
+    color: rgb(46, 14, 209);
+}
+input{
+    width: 200px;
+}
+.margin{
+    margin-right: 35px;
+}
+.margin1{
+    margin-right: 20px;
+}
+option{
+    width: 400px;
+    height: 250px;
+}

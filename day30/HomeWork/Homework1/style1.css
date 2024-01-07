@@ -1,0 +1,52 @@
+.register{
+    background-color: rgba(224, 215, 215, 0.318);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#t1{
+    width: 498px;
+}
+#t2{
+    width: 500px;
+}
+#t3{
+    width: 500px;
+    margin-left: 32px;
+}
+#t4{
+    width: 500px;
+    margin-left: 24px;
+}
+label{
+    margin-right: 200px;
+}
+#t5{
+    margin-left: 25px;
+}
+#t6{
+    width: 485px;
+}
+textarea{
+    width: 520px;
+    height: 250px;
+}
+#t7{
+    width: 515px;
+    margin-left: 30px;
+}
+#t8{
+    margin-left: 2px;
+    width: 515px;
+}
+#t9{
+    margin-left: 27px;
+    width: 515px;
+}
+.t10{
+    margin-left: 250px;
+}
+#t11{
+    width: 525px;
+    margin-left: -2px;
+}
