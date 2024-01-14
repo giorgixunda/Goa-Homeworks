@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+footer{
+    position: absolute;
+    top: 600px;
+    color: white;
+}
