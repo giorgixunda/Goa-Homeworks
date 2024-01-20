@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.register{
+    width: 350px;
+    background: rgb(200, 195, 195);
+    text-align: center;
+    height: 380px;
+    border-radius: 25px;
+}
+#t1,#t2{
+    width: 150px;
+}
+#t3,#t4,#t5{
+    width: 314px;
+}
+button{
+    color: white;
+    background-color: rgb(7, 159, 7);
+    width: 150px;
+    border-radius: 15px;
+    border-color: transparent;
+    font-size: 20px;
+}
