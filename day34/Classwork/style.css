@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: green;
+    align-items: center;
+    height: 70px;
+}
+header img{
+    height: 50px;
+    border-radius: 25px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+}
+a{
+    color: white;
+    font-size: 20px;
+}
+a:hover{
+    color: orangered;
+}

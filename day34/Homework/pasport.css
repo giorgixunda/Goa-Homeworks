@@ -1,0 +1,11 @@
+img{
+    width: 650px;
+}
+.div{
+    display: flex;
+    gap: 10px;
+    background-color: beige;
+}
+.minidiv{
+    display: inline-block;
+}
