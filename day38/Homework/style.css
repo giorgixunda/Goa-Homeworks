@@ -1,0 +1,60 @@
+body{
+    background-color: hsl(30, 54%, 90%);
+}
+.background{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.design{
+    background-color: hsl(0, 0%, 100%);
+    width: 650px;
+    height: 100%;
+    border-radius: 15px;
+}
+.design img{
+    border-radius: 15px;
+}
+img{
+    width: 500px;
+}
+.center{
+    margin-left: 70px;
+}
+.li{
+    list-style:decimal;
+}
+h1{
+    color: rgb(137, 12, 12);
+}
+h2{
+    color: hsl(332, 51%, 32%);
+}
+#hr{
+    width: 530px;
+    margin-right: 80px;
+}
+#h1{
+    color: black;
+}
+.ps{
+    display: flex;
+    gap: 250px;
+}
+.ps1{
+    display: flex;
+    gap: 270px;
+}
+.ps2{
+    display: flex;
+    gap: 260px;
+}
+.ps3{
+    display: flex; 
+    gap: 290px;
+}
+.ps h4, .ps1 h4, .ps2 h4, .ps3 h4{
+    color: rgb(137, 12, 12);
+}

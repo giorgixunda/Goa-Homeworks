@@ -1,0 +1,14 @@
+.div{
+    background-color: orangered;
+    width: 500px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: snow;
+}
+.div p{
+    text-decoration: line-through orange;
+    text-transform: capitalize;
+    text-shadow: 10px 5px 0px lawngreen ;
+}
