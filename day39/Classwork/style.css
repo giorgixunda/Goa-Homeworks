@@ -1,0 +1,84 @@
+a:link{
+    color: orangered;
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    color: green;
+}
+a:focus{
+    color: salmon;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: blue;
+}
+table, th, td{
+    border: 5px solid orangered;
+}
+td:nth-child(2){
+    color: salmon;
+}
+td:nth-child(1){
+    color: gold;
+}
+td:nth-child(3){
+    color:  blue;
+}
+th:nth-child(2){
+    color: salmon;
+}
+th:nth-child(1){
+    color: gold;
+}
+th:nth-child(3){
+    color: blue;
+}
+/* th:nth-child(even,odd){
+    color: green;
+} */
+li{
+    list-style-position: inside; 
+    /* listis shignit dawers */
+    list-style-position: outside; 
+    /* garet dawers listis */
+    list-style-type: square;
+    /* otkutxed formas miscems */
+    list-style-type: circle;
+    /* mrgval formas miscems ogond shignit tetri feri iqneba */
+    list-style-type: disc;
+    /* mrgval formas miscems ogond shignit shavi feri iqneba */
+    list-style-type: none;
+    /* moashorebs list formas */
+    list-style-type: decimal;
+    /*1. 
+      2.
+      gamoitans igivea rogorc dalagebuli sia <ol>
+                                                <li>hello</li>
+                                            </ol 
+    */
+    list-style-type: decimal-leading-zero;
+    /* gamoitians rogorc 01. 02.*/
+    list-style-type: lower-roman;
+    /* gamoitians rogorc i. ii.*/
+    list-style-type: upper-roman;
+    /* gamoitians rogorc I. II.*/
+    list-style-type: lower-alpha;
+    /* gamoitans rogorc a b c */
+    list-style-type: upper-alpha;
+    /* gamoitans rogorc A B C */
+    list-style-image: url('https://www.sololearn.com/images/bullet.jpg');
+    /* gamoitans suratis formas */
+}
+input[type="text"] {
+    border: 1px solid #FF9E03;
+    background-color: #17233B;
+}
+
+.circle{
+    border-radius: 50px 20px;
+    background-color: #e3e322;
+}

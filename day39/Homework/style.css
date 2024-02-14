@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@800&display=swap');
+*{
+    font-family: 'Figtree';
+}
+body{
+    background-color: hsl(47, 88%, 63%);
+}
+.background{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    background-color: white;
+    box-shadow: 4px 4px 4px 4px black;
+    width: 380px;
+    height: 530px;
+    border-radius: 15px;
+    border: 1px solid black;
+}
+.container svg{
+    border-radius: 15px;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+.flex{
+    display: flex;
+    gap: 20px;
+}
+.flex p{
+    font-size: 16px;
+}
+.container button{
+    background-color: hsl(47, 88%, 63%);
+    border: transparent;
+    border-radius: 2px;
+    height: 30px;
+    cursor: pointer;
+}
+.gap{
+    margin-left: 30px;
+}
+.container a:hover{
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
+.container a{
+    font-size: 28px;
+    text-decoration: none;
+    color: hsl(0, 0%, 7%);
+}
+#grey{
+    color: hsl(0, 0%, 50%);
+}
