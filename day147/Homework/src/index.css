@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+@custom-variant blue (&:where(.blue, .blue *));
+@custom-variant green (&:where(.green, .green *));
+@custom-variant orange (&:where(.orange, .orange *));
+@custom-variant emerald (&:where(.emerald, .emerald *));
